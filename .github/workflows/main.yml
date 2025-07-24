@@ -10,6 +10,6 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4.2.2
       - name: run echo
-        run: echo"first workflow run"
+        run: echo "first workflow run"
   
     
